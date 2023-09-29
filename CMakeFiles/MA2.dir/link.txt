@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/MA2.dir/src/main.cpp.o -o MA2 
